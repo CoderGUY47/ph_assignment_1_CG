@@ -23,9 +23,11 @@ a {
     text-decoration: none;
     color: #1a1a1a;
 }
+
 h1,h2,h3{
-    color: #1e1e1e;
+    color: #2e2e2e;
 }
+
 .container {
     width: 80%;
     max-width: 1600px;
@@ -74,11 +76,14 @@ nav .menu {
     gap: 20px;
     list-style-type: none;
     align-items: center;
+    font-weight: 500;
+    color: #2e2e2e;
 }
 
 nav .btn {
     padding: 14px;
 }
+
 nav .btn:hover {
     color: #910aff;
     background-color: transparent;
@@ -306,11 +311,13 @@ nav .btn:hover {
     color: #9b9b9b;
     font-size: 14px;
 }
+
 #access .access-content .access-btn:hover {
     color: #910aff;
     background-color: transparent;
     transition: all 0.3s ease-in;
 }
+
 #access p.access-text i {
     font-size: 5px;
 }
