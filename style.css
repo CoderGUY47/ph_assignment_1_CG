@@ -23,7 +23,9 @@ a {
     text-decoration: none;
     color: #1a1a1a;
 }
-
+h1,h2,h3{
+    color: #1e1e1e;
+}
 .container {
     width: 80%;
     max-width: 1600px;
